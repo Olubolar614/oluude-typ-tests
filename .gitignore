@@ -2,3 +2,4 @@ node_modules
 videos
 allure-results
 .DS_Store
+.idea
